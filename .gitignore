@@ -1,7 +1,5 @@
+.terraform/
 *.tfstate
-*.tfstate.*
-.terraform/
-.crash/
-*.backup
-.terraform.lock.hcl.terraform/
-.terraform/
+*.tfstate.backup
+crash.log
+*.log
