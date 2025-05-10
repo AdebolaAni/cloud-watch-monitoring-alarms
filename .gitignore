@@ -4,3 +4,4 @@
 .crash/
 *.backup
 .terraform.lock.hcl.terraform/
+.terraform/
